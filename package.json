@@ -8,9 +8,9 @@
     "url": "git+https://github.com/node-projects/add-js-to-esm-modules.git"
   },
   "bin": "add-js-to-esm-modules.mjs",
-  "author": "",
+  "author": "jochen.kuehnergmx.de",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
   "bugs": {
     "url": "https://github.com/node-projects/add-js-to-esm-modules/issues"
   },
