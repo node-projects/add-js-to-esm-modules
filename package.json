@@ -7,6 +7,7 @@
     "type": "git",
     "url": "git+https://github.com/node-projects/add-js-to-esm-modules.git"
   },
+  "bin": "add-js-to-esm-modules.mjs",
   "author": "",
   "license": "MIT",
   "type": "module"
