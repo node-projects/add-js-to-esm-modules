@@ -1,6 +1,6 @@
 {
   "name": "@node-projects/add-js-to-esm-modules",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "add's the .js exteion to local im/exports",
   "main": "add-js-to-esm-modules.mjs",
   "repository": {

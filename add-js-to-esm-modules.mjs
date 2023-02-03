@@ -101,4 +101,9 @@ const defaultOptions = {
   moduleFilter: defaultModuleFilter,
 };
 
-run('./dist/esm', defaultOptions);
+let path = './dist/esm';
+
+if (process.argv && process.argv.length > 2) 
+	path = process.argv[2];
+	
+run(path, defaultOptions);
