@@ -1,0 +1,17 @@
+{
+  "name": "@node-projects/add-js-to-esm-modules",
+  "version": "1.0.0",
+  "description": "add's the .js exteion to local im/exports",
+  "main": "add-js-to-esm-modules.mjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/node-projects/add-js-to-esm-modules.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "type": "module"
+  "bugs": {
+    "url": "https://github.com/node-projects/add-js-to-esm-modules/issues"
+  },
+  "homepage": "https://github.com/node-projects/add-js-to-esm-modules#readme"
+}
